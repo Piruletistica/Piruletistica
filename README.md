@@ -1,9 +1,7 @@
+# Hola, soy Francisca Moncada
 ## Hi there 👋
 
-<!--
-**Piruletistica/Piruletistica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Bienvenido a mi Perfil de GitHub
+# Bienvenid@ a mi Perfil de GitHub
 ¡Hola! Soy Ingeniera en Computación e Informática estoy recién empezando en este rubro ya que me cambié desde el área de alimentos siguiendo nuevas formas de desarrollarme...
 
 Acerca de mí (About Me)
