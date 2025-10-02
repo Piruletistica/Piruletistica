@@ -17,4 +17,4 @@ Acerca de mí (About Me)
 
 🧐 No tengo problemas para lidiar con el stress y en general logró hacer equipo en los trabajos.
 
-# Actualmente me estpy especializando en ciencia de datos, para lo que he realizado varios cursos de especialidad en esta área.
+# Actualmente me estoy especializando en ciencia de datos, para lo que he realizado varios cursos de especialidad en esta área.
