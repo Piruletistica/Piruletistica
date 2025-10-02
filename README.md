@@ -1,6 +1,6 @@
 # Hola, soy Francisca Moncada
 ## Hi there 👋
-![Mi Banner de Perfil](./Banner de LinkedIn Tecnología Rosa y Melocotón.png)
+![Mi Banner de Perfil](./banner-perfil.png)
 # Bienvenid@ a mi Perfil de GitHub
 ¡Hola! Soy Ingeniera en Computación e Informática estoy recién empezando en este rubro ya que me cambié desde el área de alimentos siguiendo nuevas formas de desarrollarme...
 
