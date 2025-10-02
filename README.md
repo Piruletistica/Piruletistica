@@ -16,3 +16,5 @@ Acerca de mí (About Me)
 🎯 Orientado a resultados y metas cumplidas, esto me ha ayudado cuando me toca dirigir equipos.
 
 🧐 No tengo problemas para lidiar con el stress y en general logró hacer equipo en los trabajos.
+
+# Actualmente me estpy especializando en ciencia de datos, para lo que he realizado varios cursos de especialidad en esta área.
