@@ -5,9 +5,10 @@
 ¡Hola! Soy Ingeniera en Computación e Informática estoy recién empezando en este rubro ya que me cambié desde el área de alimentos siguiendo nuevas formas de desarrollarme...
 
 Acerca de mí (About Me)
-💼 Mi primera formación es de ingeniería en alimentos, pero me siempre me preocupó poder automatizar tareas en esa área, eso me motivo a cambiarme a esta nueva etapa.
 
-👨‍💻 Siempre buscando aprender y crecer. Always seeking to learn and grow.
+💼 Mi primera formación es de ingeniería en alimentos, pero siempre me preocupó poder automatizar tareas en esa área, eso me motivó a tomar este nuevo rumbo.
+
+👨‍💻 Siempre buscando aprender y crecer. 
 
 🤝 Me gusta tener la posibilidad de trabajar en equipo para lograr mayores objetivos, creo que siempre se puede aprender de otros.
 
